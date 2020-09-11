@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "firstname": "brian",
+      "lastname" : "kibet",
+      "email" : "kibet@kibet.com",
+      "link" : "https://github.com/brian"
+    }
+  ]
+}
